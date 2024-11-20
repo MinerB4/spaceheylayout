@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url('https://github.com/MinerB4/spaceheylayout/blob/main/lun_bliss.png?raw=true');
+	background-image: url('https://cdn.jsdelivr.net/gh/MinerB4/spaceheylayout@main/lun_bliss.png');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -16,8 +16,8 @@ body:before {
 	position: fixed;
 	top: 0;
 	left: 0;
+	background-image: url('https://cdn.jsdelivr.net/gh/MinerB4/spaceheylayout@main/booting.gif');
 	z-index: 100;
-	background-image: url('https://media.giphy.com/media/LbSdXQbS0XVVC/giphy.gif');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
