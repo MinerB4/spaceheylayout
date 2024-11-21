@@ -49,7 +49,7 @@ nav:before {
 	content: "SpaceHey Header";
 	display: block;
 	padding: 1em;
-	background: linear-gradient(to bottom, #245edb 0%, #3f8cf3 9%, #245edb 18%, #245edb 92%, #333 100%) center/cover no-repeat;
+	background: linear-gradient(to bottom, #24db5e 0%, #3ff38c 9%, #24db5e 18%, #24db5e 92%, #2b333b 100%) center/cover no-repeat;
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
 	text-shadow: 2px 2px 0px #000;
@@ -61,7 +61,7 @@ nav:after {
 	padding: .4em .6em;
 	width: fit-content;
 	border-radius: 5px;
-	background: linear-gradient(180deg, rgba(233,145,126,1) 0%, rgba(223,89,65,1) 29%, rgba(156,32,15,1) 100%);
+	background: linear-gradient(180deg, rgba(233,126,145,1) 0%, rgba(223,65,89,1) 29%, rgba(156,15,32,1) 100%);
 	border: 1px solid #FFF;
 	position: absolute;
 	top: 0;
@@ -84,7 +84,7 @@ main {
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
 .profile h1 {
-	border: 2px solid #1B44B8;
+	border: 2px solid #1BB844;
 	border-radius: 5px 5px 0 0;
 	padding: .5em;
 	color: #FFF;
@@ -99,9 +99,9 @@ main {
 }
 .profile .general-about {
 	background: #FFF;
-	border-left: 2px solid #1B44B8;
-	border-right: 2px solid #1B44B8;
-	border-bottom: 2px solid #1B44B8;
+	border-left: 2px solid #1BB844;
+	border-right: 2px solid #1BB844;
+	border-bottom: 2px solid #1BB844;
 	padding: 1em;
 	box-shadow: 5px 8px 10px #0006;
 }
@@ -113,9 +113,9 @@ main {
 	background: #FFF;
 	border-radius: 11px 11px 0 0;
 	box-shadow: 5px 8px 10px #0006;
-	border-left: 2px solid #1B44B8;
-	border-right: 2px solid #1B44B8;
-	border-bottom: 2px solid #1B44B8;
+	border-left: 2px solid #1BB844;
+	border-right: 2px solid #1BB844;
+	border-bottom: 2px solid #1BB844;
 }
 .profile .left .mood p {
 	margin-left: 1em;
@@ -142,7 +142,7 @@ nav:after {
 	padding: .4em .6em;
 	width: fit-content;
 	border-radius: 5px;
-	background: linear-gradient(180deg, rgba(233,145,126,1) 0%, rgba(223,89,65,1) 29%, rgba(156,32,15,1) 100%);
+	background: linear-gradient(180deg, rgba(233,126,145,1) 0%, rgba(223,65,89,1) 29%, rgba(156,15,32,1) 100%);
 	border: 1px solid #FFF;
 	position: absolute;
 	top: 0;
@@ -161,7 +161,7 @@ nav:after {
 }
 .left .contact {
 	border: 0;
-	background: linear-gradient(180deg, #0997ff, #0053ee 8%, #0050ee 40%, #06f 88%, #06f 93%, #005bff 95%, #003dd7 96%, #003dd7);
+	background: linear-gradient(180deg, #09ff97, #00ee53 8%, #00ee50 40%, #0f6 88%, #0f6 93%, #00ff5b 95%, #00d73d 96%, #00d73d);
 }
 .profile .contact .heading {
 	background: radial-gradient(circle, #5eac56 0%, #3c873c 100%) center/cover no-repeat;
@@ -196,7 +196,7 @@ nav:after {
 .profile .f-col a {
 	white-space: nowrap;
 	border: 1px solid #003c74;
-	background: linear-gradient(180deg,#366EF3,#2D69F4 86%,#1A3EB4);
+	background: linear-gradient(180deg,#36F36E,#2DF469 86%,#1AB43E);
 	border-radius: 3px;
 	padding: .5em;
 	margin-left: .3em;
@@ -204,7 +204,7 @@ nav:after {
 	color: #FFF;
 }
 .profile .f-col a:hover {
-	background: linear-gradient(180deg,#1C35B4,#2450D7 86%,#1A3EB4);
+	background: linear-gradient(180deg,#1CB435,#24D750 86%,#1AB43E);
 	text-decoration: none;
 }
 .profile .url-info, .profile .profile-info {
@@ -279,9 +279,9 @@ nav:after {
 	background: #FFF;
 	border-radius: 11px 11px 0 0;
 	box-shadow: 5px 8px 10px #0006;
-	border-left: 3px solid #1B44B8;
-	border-right: 2px solid #1B44B8;
-	border-bottom: 2px solid #1B44B8;
+	border-left: 3px solid #1BB844;
+	border-right: 2px solid #1BB844;
+	border-bottom: 2px solid #1BB844;
 }
 .profile .right .blog-preview p, .profile .right .blog-preview h4 {
 	font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
@@ -308,9 +308,9 @@ nav:after {
 	background: #FFF;
 	border-radius: 11px 11px 0 0;
 	box-shadow: 5px 8px 10px #0006;
-	border-left: 3px solid #1B44B8;
-	border-right: 2px solid #1B44B8;
-	border-bottom: 2px solid #1B44B8;
+	border-left: 3px solid #1BB844;
+	border-right: 2px solid #1BB844;
+	border-bottom: 2px solid #1BB844;
 }
 .profile .right .blurbs .heading, .profile .right .friends .heading{
 	-moz-background-attachment-clip: padding;
