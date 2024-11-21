@@ -32,24 +32,24 @@ nav, footer {
 }
 footer{
 	margin-bottom:3rem;
-	border:2px solid #1D43D1;
+	border:2px solid #1DD143;
 }
 nav .top, nav .links {
-	border-left: 2px solid #1D43D1;
-	border-right: 2px solid #1D43D1;
+	border-left: 2px solid #1DD143;
+	border-right: 2px solid #1DD143;
 }
 nav .info{
-	border-left: 2px solid #1D43D1;
-	border-right: 2px solid #1D43D1;
+	border-left: 2px solid #1DD143;
+	border-right: 2px solid #1DD143;
 }
 nav .links {
-	border-bottom: 2px solid #1D43D1;
+	border-bottom: 2px solid #1DD143;
 }
 nav:before {
 	content: "SpaceHey Header";
 	display: block;
 	padding: 1em;
-	background: linear-gradient(to bottom, #24db5e 0%, #3ff38c 9%, #24db5e 18%, #24db5e 92%, #2b333b 100%) center/cover no-repeat;
+	background: linear-gradient(to bottom, #52ad6f 0%, #6cc693 9%, #52ad6f 18%, #52ad6f 92%, #2b333b 100%) center/cover no-repeat;
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
 	text-shadow: 2px 2px 0px #000;
@@ -61,7 +61,7 @@ nav:after {
 	padding: .4em .6em;
 	width: fit-content;
 	border-radius: 5px;
-	background: linear-gradient(180deg, rgba(233,126,145,1) 0%, rgba(223,65,89,1) 29%, rgba(156,15,32,1) 100%);
+	background: linear-gradient(135deg, rgba(233,126,145,1) 0%, rgba(223,65,89,1) 29%, rgba(156,15,32,1) 100%);
 	border: 1px solid #FFF;
 	position: absolute;
 	top: 0;
