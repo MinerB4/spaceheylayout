@@ -295,7 +295,7 @@ nav:after {
 	content: "Notepad";
 	display: block;
 	padding: .5em;
-	border: 2px solid #1B44B8;
+	border: 2px solid #1BB844;
 	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
@@ -318,7 +318,7 @@ nav:after {
 	background-clip: padding-box;
 	display: block;
 	padding: .7em;
-	border: 2px solid #1B44B8;
+	border: 2px solid #1BB844;
 	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
