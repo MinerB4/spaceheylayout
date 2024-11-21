@@ -1,5 +1,5 @@
 :root {
-	--blue-gradient: linear-gradient(to bottom, #245edb 0%, #3f8cf3 9%, #245edb 18%, #245edb 92%, #333 100%) center/cover no-repeat;
+	--green-gradient: linear-gradient(to bottom, #52ad6f 0%, #6cc693 9%, #52ad6f 18%, #52ad6f 92%, #2b333b 100%) center/cover no-repeat;
 }
 
 body {
@@ -89,7 +89,7 @@ main {
 	padding: .5em;
 	color: #FFF;
 	text-shadow: 2px 2px 0 #000;
-	background: var(--blue-gradient);
+	background: var(--green-gradient);
 	margin-bottom: 0;
 }
 .profile .left {
@@ -125,11 +125,11 @@ main {
 	-moz-background-clip: padding;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	content: "ðŸ™‚ Mood";
+	content: "Mood";
 	display: block;
 	padding: .5em;
 	border: 2px solid #1B44B8;
-	background: var(--blue-gradient);
+	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
 	text-shadow: 2px 2px 0px #000;
@@ -176,7 +176,7 @@ nav:after {
 	font-size: 0;
 }
 .profile .contact .heading h4:after {
-	content: "ðŸ’¬ start";
+	content: "menu";
 	font-size: 1.4rem;
 	font-family: sans-serif;
 	font-weight: bold;
@@ -230,7 +230,7 @@ nav:after {
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	padding: 1em;
-	background: var(--blue-gradient);
+	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
 	text-shadow: 2px 2px 0px #000;
@@ -292,11 +292,11 @@ nav:after {
 	-moz-background-clip: padding;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	content: "ðŸ“ Notepad";
+	content: "Notepad";
 	display: block;
 	padding: .5em;
 	border: 2px solid #1B44B8;
-	background: var(--blue-gradient);
+	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
 	text-shadow: 2px 2px 0px #000;
@@ -319,7 +319,7 @@ nav:after {
 	display: block;
 	padding: .7em;
 	border: 2px solid #1B44B8;
-	background: var(--blue-gradient);
+	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
 	text-shadow: 2px 2px 0px #000;
@@ -327,7 +327,7 @@ nav:after {
 	color: #FFF;
 }
 .profile .right .blurbs .heading h4:before{
-	content: "ðŸ’» ";
+	content: " » ";
 }
 .profile .right .comments-table{
 	height:300px;
