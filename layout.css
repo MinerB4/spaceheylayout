@@ -56,12 +56,12 @@ nav:before {
 	border-radius: 10px 10px 0 0;
 }
 nav:after {
-	content: "X";
+	content: "×";
 	display: inline-block;
 	padding: .4em .6em;
 	width: fit-content;
 	border-radius: 5px;
-	background: linear-gradient(135deg, rgba(233,126,145,1) 0%, rgba(223,65,89,1) 29%, rgba(156,15,32,1) 100%);
+	background: linear-gradient(180deg, rgba(233,126,145,1) 0%, rgba(223,65,89,1) 29%, rgba(156,15,32,1) 100%);
 	border: 1px solid #FFF;
 	position: absolute;
 	top: 0;
