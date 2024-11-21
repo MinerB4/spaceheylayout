@@ -84,7 +84,7 @@ main {
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
 .profile h1 {
-	border: 2px solid #1BB844;
+	border: 2px solid #1f5242;
 	border-radius: 5px 5px 0 0;
 	padding: .5em;
 	color: #FFF;
@@ -99,9 +99,9 @@ main {
 }
 .profile .general-about {
 	background: #FFF;
-	border-left: 2px solid #1BB844;
-	border-right: 2px solid #1BB844;
-	border-bottom: 2px solid #1BB844;
+	border-left: 2px solid #1f5242;
+	border-right: 2px solid #1f5242;
+	border-bottom: 2px solid #1f5242;
 	padding: 1em;
 	box-shadow: 5px 8px 10px #0006;
 }
@@ -113,9 +113,9 @@ main {
 	background: #FFF;
 	border-radius: 11px 11px 0 0;
 	box-shadow: 5px 8px 10px #0006;
-	border-left: 2px solid #1BB844;
-	border-right: 2px solid #1BB844;
-	border-bottom: 2px solid #1BB844;
+	border-left: 2px solid #1f5242;
+	border-right: 2px solid #1f5242;
+	border-bottom: 2px solid #1f5242;
 }
 .profile .left .mood p {
 	margin-left: 1em;
@@ -128,7 +128,7 @@ main {
 	content: "Mood";
 	display: block;
 	padding: .5em;
-	border: 2px solid #1B44B8;
+	border: 2px solid #1f5242;
 	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
@@ -218,7 +218,7 @@ nav:after {
 }
 .left .table-section {
 	border-radius: 10px 10px 0 0;
-	border: 2px solid #1B44B8;
+	border: 2px solid #1f5242;
 	box-shadow: 5px 8px 10px #0006;
 }
 .left .table-section .details-table tr {
@@ -279,9 +279,9 @@ nav:after {
 	background: #FFF;
 	border-radius: 11px 11px 0 0;
 	box-shadow: 5px 8px 10px #0006;
-	border-left: 3px solid #1BB844;
-	border-right: 2px solid #1BB844;
-	border-bottom: 2px solid #1BB844;
+	border-left: 3px solid #1f5242;
+	border-right: 2px solid #1f5242;
+	border-bottom: 2px solid #1f5242;
 }
 .profile .right .blog-preview p, .profile .right .blog-preview h4 {
 	font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
@@ -295,7 +295,7 @@ nav:after {
 	content: "Notepad";
 	display: block;
 	padding: .5em;
-	border: 2px solid #1BB844;
+	border: 2px solid #1f5242;
 	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
@@ -308,9 +308,9 @@ nav:after {
 	background: #FFF;
 	border-radius: 11px 11px 0 0;
 	box-shadow: 5px 8px 10px #0006;
-	border-left: 3px solid #1BB844;
-	border-right: 2px solid #1BB844;
-	border-bottom: 2px solid #1BB844;
+	border-left: 3px solid #1f5242;
+	border-right: 2px solid #1f5242;
+	border-bottom: 2px solid #1f5242;
 }
 .profile .right .blurbs .heading, .profile .right .friends .heading{
 	-moz-background-attachment-clip: padding;
@@ -318,7 +318,7 @@ nav:after {
 	background-clip: padding-box;
 	display: block;
 	padding: .7em;
-	border: 2px solid #1BB844;
+	border: 2px solid #1f5242;
 	background: var(--green-gradient);
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
